@@ -21,8 +21,6 @@
 - ナビエ–ストークス方程式を参考にした非線形動態モデル  
 - 現象学・アーレント思想を土台にした“観察としての思考”の理論化  
 
-👉 **[`thinking_fluid_model/`](./thinking_fluid_model/)**
-
 ---
 
 ### 🔷 **No-code Education Editor — ノーコード教材エディタ（HTML/JS/Node）**
@@ -34,8 +32,6 @@
 - 反応時間・クラスタリング分析などの学習データ解析  
 - 教育工学会で発表予定  
 - フルスタック構成（HTML / CSS / JS / Node.js）
-
-👉 **[`nocode-site/`](./nocode-site/)**
 
 ---
 
@@ -71,8 +67,6 @@
 
 ## 📁 Portfolio
 スクリーンショット・UI・可視化などをまとめた素材。  
-👉 **[`portfolio/`](./portfolio/)**
-
 ---
 
 ## ✉ Contact
